@@ -38,7 +38,7 @@ header h1 {
 }
 
 header nav {
-    width: 800px;
+    width: 820px;
     float: right;
     text-align: right;
     padding: 75px 25px 75px 0px;
@@ -57,7 +57,16 @@ nav ul li a {
     padding-left: 50px;
     color: #727172;
 }
+header h2{
+    width:1000px;
+    color:#817F80;
+    font-size:72px;
+    font-family: 'Lora',serif;
+    line-height:80px;
+    clear:both;
+    padding: 20px 0 20px 25px;
 
+}
 
 
 /****** About Styles ******/
